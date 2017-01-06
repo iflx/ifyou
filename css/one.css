@@ -4,8 +4,8 @@
 	
 	}
 .box{
-	width:100%;
-	min-width:640px;
+	
+	width:640px;
 	height:1200px;
 	background:#0CF;
 	}
@@ -13,7 +13,7 @@
 	float:right;
 	margin-right:50px;
 	text-align:center;
-	font-size:36px;
+	font-size:px;
 	height:100px;
 	line-height:100px;
 	width:200px;

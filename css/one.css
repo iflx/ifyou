@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.box{
+	width:100%;
+	min-width:640px;
+	height:1136px;
+	background:#0CF;
+	}
+
